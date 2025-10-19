@@ -4,7 +4,7 @@
 
 🎓 **Software Engineering Student** at African Leadership University  
 💻 Passionate about using technology to empower communities and create sustainable solutions.  
-🌍 Based in **Kabul, Afghanistan**
+🌍 Based in **Kabul, Afghanistan** 
 
 ---
 
@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Python, JavaScript, and Linux system administration**
 - 💡 Interested in **software development, administrative tech tools, and community innovation**
 - 🤝 Open to **remote internships and collaboration opportunities**
-- ✉️ Reach me at **morsal.hakimi57@gmail.com**
+- ✉️ Reach me at **morsal.hakimi57@gmail.com** or m.hakim@alustudent.com
 
 ---
 
